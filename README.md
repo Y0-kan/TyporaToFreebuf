@@ -2,7 +2,7 @@
 
 平时喜欢用Typora记录一些笔记，有时会有将本地markdown文章搬到freebuf的需求，但是freebuf自带的markdown编辑器上传图片比较繁琐，而且一张一张上传也比较耗费时间，所以就打算写一个自动将本地的markdown文章图片转化为freebuf图片的工具。
 
-这里参考了[此文](https://forum.butian.net/share/1172)，造了个轮子。
+这里参考[此文](https://forum.butian.net/share/1172)，造了个轮子。
 
 ## 原理
 
